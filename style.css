@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.add-counter{
+    padding: 2%;
+    text-align: center;
+}
+.add-counter h2{
+    padding: 2%;
+    text-align: center;
+}
+.counter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+.counter button{
+    padding-inline: 40px;
+    padding-block: 10px;
+}
+.counter h2{
+    padding-inline: 40px;
+    padding-block: 6px;
+    background-color: aqua;
+}
